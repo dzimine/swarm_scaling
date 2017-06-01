@@ -1,0 +1,10 @@
+---
+name: swarm
+ref: swarm
+description: Docker Swarm Auto Scaling automation pack
+keywords:
+  - docker
+  - automation
+version : 0.1.0
+author : Dmitri Zimin(e)
+email : dz@stackstorm.com
